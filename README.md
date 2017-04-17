@@ -6,16 +6,14 @@ My name is Matthew Solc. I am a Junior at Skyline High School in Longmont. I am 
 
 I am interested in working in Computer Science and Software Development. I have learned several programming languages, including Python, Ruby, Ruby on Rails, HTML5, and C++. I have learned the Linux Command Line and am very comfortable using it. I have set up my own system using Arch Linux. I am always looking to learn new things and new ways to apply my current skills. 
 
-<<<<<<< HEAD
 
-=======
->>>>>>> 40fbca7240c292535a9caeac3e4c3ca065792973
 PAST EMPLOYMENT
 
 Innovation Center - StVrain Valley School District - August 2015 - Present
 
-<<<<<<< HEAD
-TechTeam Mac hardware and software repair.
+
+TechTeam 
+Mac hardware and software repair.
 
 Skills
 
@@ -43,8 +41,4 @@ Will be graduating in the Spring of 2018 with a STEM diploma. Elective courses c
 
 
 This resume was built in git
-=======
-TechTeam
-Mac hardware and software repair. 
->>>>>>> 40fbca7240c292535a9caeac3e4c3ca065792973
 
