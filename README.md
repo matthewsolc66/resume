@@ -8,23 +8,25 @@ My name is Matthew Solc. I am a Junior at Skyline High School in Longmont. I am 
 I am interested in working in Computer Science and Software Development. I have learned several programming languages, including Python, Ruby, Ruby on Rails, HTML5, and C++. I have learned the Linux Command Line and am very comfortable using it. I have set up my own system using Arch Linux. I am always looking to learn new things and new ways to apply my current skills. 
 
 
-PAST EMPLOYMENT
+Past Employment
+------
 
-Innovation Center - StVrain Valley School District - August 2015 - Present
+### Innovation Center - StVrain Valley School District - August 2015 - Present
 
 
-TechTeam 
+#### TechTeam 
 Mac hardware and software repair.
 
-Co-Teaching Tech2 Class
+#### Co-Teaching Tech2 Class
 Summer 2016 - I co-taught the Tech 2 class at the summer STEM institute.
 
-Website Design - CoachCloie.com
+#### Website Design
 
 Fall of 2016, me and 2 others designed a website for a coach hoping to create a blog about health and exercise routines. 
 [CoachCloie](http://coachcloie.com "CoachCloie")
 
 Skills
+------
 
 Strong spoken
 Verbal and written communication
@@ -32,10 +34,12 @@ Estimation
 
 
 Technologies
+------
 
 Ruby, Python, Linux, C++, HTML5, Git
 
 Education
+------
 
 Skyline High School
 Gradutaion Year 2018
