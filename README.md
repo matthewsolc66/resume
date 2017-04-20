@@ -15,22 +15,24 @@ Past Employment
 
 
 #### TechTeam 
-Mac hardware and software repair.
-
+Hardware and software support for Apple products and devices
 #### Co-Teaching Tech2 Class
 Summer 2016 - I co-taught the Tech 2 class at the summer STEM institute.
 
 #### Website Design
 
-Fall of 2016, me and 2 others designed a website for a coach hoping to create a blog about health and exercise routines. 
+Fall of 2016, myself and 2 others designed a website for a coach hoping to create a blog about health and exercise routines. 
 [CoachCloie](http://coachcloie.com "CoachCloie")
 
 Skills
 ------
 
+Teamwork
+Quick learner
 Strong spoken
 Verbal and written communication
-Estimation
+Leadership and managment
+Dependable
 
 
 Technologies
