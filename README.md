@@ -1,8 +1,7 @@
-Alt-H1
-======
  Matthew Solc - Resume
+======
 
-|github| https://github.com/matthewsolc66
+| [GitHub](https://github.com/matthewsolc66 "GitHub") |
 
 My name is Matthew Solc. I am a Junior at Skyline High School in Longmont. I am in the STEM (Science, Technology, Engineering, and Math) Academy. The summer of Freshman year I completed my ACMT (Apple Certified Mac Technician) Certification and Sophomore summer I re-certified with ACMT and ACiT (Apple Certified iOS Technician). 
 
