@@ -1,4 +1,5 @@
-Matthew Solc - Resume
+ Alt-H1 
+ Matthew Solc - Resume
 
 |github| https://github.com/matthewsolc66
 
@@ -21,7 +22,7 @@ Summer 2016 - I co-taught the Tech 2 class at the summer STEM institute.
 Website Design - CoachCloie.com
 
 Fall of 2016, me and 2 others designed a website for a coach hoping to create a blog about health and exercise routines. 
-[CoachCloie](https://coachcloie.com "CoachCloie")
+[CoachCloie](http://coachcloie.com "CoachCloie")
 
 Skills
 
