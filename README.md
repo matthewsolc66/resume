@@ -27,7 +27,7 @@ Fall of 2016, myself and 2 others designed a website for a coach hoping to creat
 Skills
 ------
 
-Teamwork, quick learner, strong spoke, verbal and written communication, leadership and managment, dependable
+Teamwork, quick learner, strong spoken, verbal and written communication, leadership and managment, dependable
 
 Technologies
 ------
