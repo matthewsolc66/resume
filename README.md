@@ -3,10 +3,11 @@
 
 | [GitHub](https://github.com/matthewsolc66 "GitHub") |
 
-My name is Matthew Solc. I am a graduate of Skyline High School in Longmont. I am in the STEM (Science, Technology, Engineering, and Math) Academy. The summer of Freshman year I completed my ACMT (Apple Certified Mac Technician) Certification and Sophomore summer I re-certified with ACMT and ACiT (Apple Certified iOS Technician). 
+My name is Matthew Solc. I am a graduate of Skyline High School in Longmont. I was in the STEM (Science, Technology, Engineering, and Math) Academy. The summer of Freshman year I completed my ACMT (Apple Certified Mac Technician) Certification and Sophomore summer I re-certified with ACMT and ACiT (Apple Certified iOS Technician). Skyline did not offer many automotive classes, so all my experience is self taught.  
 
-I am interested in working in Computer Science and Software Development. I have learned several programming languages, including Python, Ruby, Ruby on Rails, HTML5, and C++. I have learned the Linux Command Line and am very comfortable using it. I have set up my own system using Arch Linux. I am always looking to learn new things and new ways to apply my current skills. 
+I am interested in working in Computer Science and Software Development. I have learned several programming languages, including Python, Ruby, Ruby on Rails, HTML5, and C++. I have learned the Linux Command Line and am very comfortable using it. I have set up my own systems using Arch Linux and Gentoo. 
 
+I am also interested in working in the automotive world. I have become very self reliant when it comes to cars. My first car, a 2007 Saab 93, fell victim to a strong rainstorm and suffered engine flooding. I was able to fix it after clearing out the intake, cylinders and exhaust. I also installed a new starter which in a Saab, is no small feat. I came across a second car, a 2005 Acura TL, which I have been putting work into non stop. Cold air intake, new alternator, new brake rotors, calipers, and pads. I am very hands on with my vehicles and am never going to stop learning new things. 
 
 Past Employment
 ------
@@ -51,9 +52,14 @@ Ruby, Python, Linux, C++, HTML5, Git
 Education
 ------
 
-Skyline High School
+##### High School
+###### Skyline High School
 Gradutaion Year 2018
 Graduated in the Spring of 2018 with a STEM diploma. Elective courses consisting of Computer Science and Application Development. 
+
+##### College
+###### Front Range Community College
+Currently taking classes related to chemistry, engineering, and mathematics.
 
 
 
