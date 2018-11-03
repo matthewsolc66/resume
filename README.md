@@ -31,8 +31,11 @@ I worked with computer repair technicians, server admins, Help Desk, warehouse w
 
 #### Lifeguard
 Maintain constant surveillance of patrons in the facility
+
 Act immediately and appropriately to secure safety of patrons in the event of emergency
+
 Provide emergency care and treatment as required until the arrival of emergency medical services
+
 Monitor pool-related activities closely throughout shift and identify any safety issues
 
 Skills
@@ -50,5 +53,7 @@ Education
 
 Skyline High School
 Gradutaion Year 2018
-Will be graduating in the Spring of 2018 with a STEM diploma. Elective courses consisting of Computer Science and Application Development. 
+Graduated in the Spring of 2018 with a STEM diploma. Elective courses consisting of Computer Science and Application Development. 
+
+
 
