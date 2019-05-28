@@ -50,6 +50,8 @@ Operating all related equipment and tools as trained
 
 Operating independently and as a team member or leader
 
+Selling and assisting customers in finding the best tires or wheels for their car
+
 Handling scrap tires and organizing them into the bin for storage
 
 Keeping the bays clean and orgaized
