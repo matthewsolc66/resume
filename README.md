@@ -42,7 +42,7 @@ Provide emergency care and treatment as required until the arrival of emergency 
 
 Monitor pool-related activities closely throughout shift and identify any safety issues
 
-### Discount Tire, Boulder, Colorado - December 2018 - present
+### Discount Tire, Boulder, Colorado - December 2018 - August 2019
 
 #### Tire Technician
 Dismounting, mounting, balancing, rotating tires
@@ -59,10 +59,18 @@ Handling scrap tires and organizing them into the bin for storage
 
 Keeping the bays clean and orgaized
 
+### Apple Store Maine Mall October 2019 - Present
+
+#### FWE Specialist
+Uncovering customers needs
+
+Provide solution to customers situation based on infornmation they provide or that is uncovered during probing
+
+Advise, sell, and help setup a customers new device
 Skills
 ------
 
-Teamwork, quick learner, strong spoken, verbal and written communication, leadership and managment, dependable
+Teamwork, quick learner, strong spoken, verbal and written communication, leadership and managment, dependable, epathetic
 
 Technologies
 ------
