@@ -67,6 +67,7 @@ Uncovering customers needs
 Provide solution to customers situation based on infornmation they provide or that is uncovered during probing
 
 Advise, sell, and help setup a customers new device
+
 Skills
 ------
 
