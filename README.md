@@ -68,6 +68,13 @@ Provide solution to customers situation based on infornmation they provide or th
 
 Advise, sell, and help setup a customers new device
 
+
+Achievments
+------
+
+Top performer for Winter 2019 for Upper New England in Apple Care Sales
+
+
 Skills
 ------
 
