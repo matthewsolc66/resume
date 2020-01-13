@@ -1,7 +1,7 @@
 Matthew Solc - Resume
 ====== 
 #### 720-251-6538
-#### 132 Marginal Way Apt 232C South Portland, ME
+#### 132 Marginal Way Apt 223C South Portland, ME
 #### matthewsolc66@gmail.com
 
 | [GitHub](https://github.com/matthewsolc66 "GitHub") |
