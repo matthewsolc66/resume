@@ -1,7 +1,7 @@
 Matthew Solc - Resume
 ====== 
 #### 720-251-6538
-#### 132 Marginal Way Apt 223C South Portland, ME
+#### 1613 Heirloom Way Longmont, Colorado 80504
 #### matthewsolc66@gmail.com
 
 | [GitHub](https://github.com/matthewsolc66 "GitHub") |
