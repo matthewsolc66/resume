@@ -15,7 +15,7 @@ I am also interested in working in the automotive world. I have become very self
 Past Employment
 ------
 
-### Innovation Center - StVrain Valley School District - August 2015 - May 2018
+### Innovation Center - St. Vrain Valley School District - August 2015 - May 2018
 
 #### TechTeam 
 Hardware and software support for Apple products and devices
@@ -25,7 +25,7 @@ Summer 2016 - I co-taught the Tech 2 class at the summer STEM institute.
 Fall 2016, myself and 2 others designed a website for a coach hoping to create a blog about health and exercise routines. 
 [CoachCloie](http://coachcloie.com "CoachCloie")
 
-### District Technology Services - StVrain Valley School District - August 2017 - May 2018
+### District Technology Services - St Vrain Valley School District - August 2017 - May 2018
 
 #### Internship
 Following around different members of the department, learning about their jobs and helping them with any taks they had. 
@@ -57,14 +57,14 @@ Selling and assisting customers in finding the best tires or wheels for their ca
 
 Handling scrap tires and organizing them into the bin for storage
 
-Keeping the bays clean and orgaized
+Keeping the bays clean and organized
 
 ### Apple Store Maine Mall October 2019 - Present
 
 #### FWE Specialist
 Uncovering customers needs
 
-Provide solution to customers situation based on infornmation they provide or that is uncovered during probing
+Provide solution to customers situation based on information they provide or that is uncovered during probing
 
 Advise, sell, and help setup a customers new device
 
