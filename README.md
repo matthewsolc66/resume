@@ -59,7 +59,7 @@ Handling scrap tires and organizing them into the bin for storage
 
 Keeping the bays clean and organized
 
-### Apple Store Maine Mall October 2019 - Present
+### Apple Store Maine Mall October 2019 - January 2020
 
 #### FWE Specialist
 Uncovering customers needs
@@ -68,6 +68,13 @@ Provide solution to customers situation based on information they provide or tha
 
 Advise, sell, and help setup a customers new device
 
+### Experimax Longmont June 2020 - Present
+#### Salesman and Repair Technician
+Provide customer support for Apple, PC, and mobile phones
+
+Assist customers in finding the best device to suit their needs
+
+Repair damaged devices
 
 Achievments
 ------
