@@ -85,7 +85,7 @@ Top performer for Winter 2019 for Upper New England in Apple Care Sales
 Skills
 ------
 
-Microsoft applications, Windows Server, MacOS Server. TCP/IP and MLPP/MPLS protocols. Instalation and maintainence of network hardware. 
+Microsoft applications, Windows Server, MacOS Server. TCP/IP and MLPP/MPLS protocols. Instalation and maintainence of network hardware. Mobile Device Managment using Configurator.
 
 Technologies
 ------
